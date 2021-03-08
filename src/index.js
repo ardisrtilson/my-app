@@ -7,6 +7,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+    <App />
     <CanvasDraw />
   </React.StrictMode>,
   document.getElementById('root')
